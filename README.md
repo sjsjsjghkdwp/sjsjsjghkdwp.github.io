@@ -1,3 +1,1 @@
-# sjsjsjghkdwp.gothub.io (test)
-
-test
+# sjsjsjghkdwp.gothub.io
